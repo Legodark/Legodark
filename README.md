@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello Github! :octocat:
+
+Mi nombre es Juan, soy un chico de Marbella al que le encantan los coches, conducir 🚗 y la tecnologia 👨🏻‍💻. Actualmente me estoy adentrando en el mundo de Data Science mediante la Inteligencia Artifiicial 👾 y el BigData 💽.
+
+Este es Github donde podras encontrar mis proyectos que he ido desarrollando a lo largo del tiempo :octocat:
+
 
 <!--
 **Legodark/Legodark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
