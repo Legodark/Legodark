@@ -37,7 +37,7 @@ Mi máquina:
 
 Mis estadisticas:
 
-[![Legodark GitHub stats](https://github-readme-stats.vercel.app/api?username=legodark&show_icons=true&theme=radical)](https://github.com/legodark/legodark) 
+[![Legodark GitHub stats](https://github-readme-stats-legodark.vercel.app/api?username=legodark&show_icons=true&theme=radical)](https://github.com/legodark/legodark) 
 
 
 
