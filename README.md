@@ -2,7 +2,7 @@
 
 Mi nombre es Juan, soy un chico de Marbella al que le encantan los coches, conducir 🚗 y la tecnologia 👨🏻‍💻. Actualmente me estoy adentrando en el mundo de Data Science mediante la Inteligencia Artifiicial 👾 y el BigData 💽.
 
-Este es mi Github personal donde podras encontrar mis proyectos que he ido creando a lo largo del tiempo como desarrollador.
+Este es mi Github personal donde podras encontrar los proyectos que he ido creando a lo largo del tiempo como desarrollador.
 
 Puedes acceder a algunos de mis últimos proyectos en los siguientes enlaces:
 
@@ -15,7 +15,7 @@ Simulacion de un perceptrón :brain:
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://legodark-neuron-simulation-srcneuron-simulation-0l5mc1.streamlit.app)
 
 
-Estos proyectos usan las siguientes tecnologias:
+Estos proyectos los desarrolle con las siguientes tecnologias:
 
 [![python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=#3776AB&labelColor=101010)]()[![numpy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=#013243&labelColor=101010)]()[![pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=#150458&labelColor=101010)]()[![scikit](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn&logoColor=#F7931E&labelColor=101010)]()[![streamlit](https://img.shields.io/badge/streamlit-black?style=for-the-badge&logo=Streamlit&logoColor=#FF4B4B&labelColor=101010)]()
 
