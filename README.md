@@ -8,11 +8,11 @@ Puedes acceder a algunos de mis últimos proyectos en los siguientes enlaces:
 
 Calcula el precio de tu coche :car:
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://legodark-cars-predicts-price-srccars-second-hand-7nthoj.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://legodark-cars-predicts-price-cars-second-hand-mg2aep.streamlit.app)
 
 Simulacion de un perceptrón :brain: 
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://legodark-neuron-simulation-srcneuron-simulation-0l5mc1.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://legodark-neuron-simulation-neuron-simulation-21esho.streamlit.app)
 
 
 Estos proyectos los desarrolle con las siguientes tecnologias:
