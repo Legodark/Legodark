@@ -10,7 +10,7 @@
   <a href="mailto:juan.cerser@protonmail.com">Email</a>
 </p>
 
-<h1 align="center">¡Hola, soy Juan! 👋</h1>
+<h1 align="center">¡Hola, soy Juan! <img src="./assets/wave.svg" width="36" height="36" alt="Mano saludando" /></h1>
 
 **AI LLM Technology Architecture Specialist en Accenture · Marbella, España.**
 
@@ -80,8 +80,21 @@ Dos proyectos públicos de mi etapa de exploración en machine learning:
 | [Predicción del precio de coches](https://github.com/Legodark/cars_predicts_price) | Preparación de datos, entrenamiento y una interfaz con Streamlit para estimar precios de vehículos de segunda mano. |
 | [Simulación de un perceptrón](https://github.com/Legodark/neuron_simulation) | Una aplicación didáctica para explorar el funcionamiento de una neurona artificial. |
 
+## 📈 `github / public stats`
+
+Un vistazo a mi actividad y al código de mis repositorios públicos.
+
+<p align="center">
+  <a href="https://github.com/Legodark?tab=repositories">
+    <img width="55%" src="https://github-stats-extended.vercel.app/api?username=Legodark&amp;show_icons=true&amp;count_private=false&amp;bg_color=0d1117&amp;title_color=82e6bf&amp;text_color=a7b3c4&amp;icon_color=82e6bf&amp;ring_color=82e6bf&amp;border_color=303b49&amp;custom_title=GitHub%20%2F%20public%20stats" alt="Estadísticas públicas de Juan en GitHub: estrellas, commits, pull requests, issues y rango." />
+  </a>
+  <a href="https://github.com/Legodark?tab=repositories">
+    <img width="42%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Legodark&amp;layout=compact&amp;langs_count=6&amp;bg_color=0d1117&amp;title_color=82e6bf&amp;text_color=a7b3c4&amp;border_color=303b49&amp;custom_title=Lenguajes%20%2F%20repos%20publicos" alt="Distribución de lenguajes en los repositorios públicos de Juan." />
+  </a>
+</p>
+
 ---
 
 **¿Hablamos de IA, cloud o automatización?** Encuéntrame en [LinkedIn](https://www.linkedin.com/in/jcs91/), visita mi [portfolio](https://juancerezo.com) o escríbeme por [email](mailto:juan.cerser@protonmail.com).
 
-<!-- La animación es un SVG local, sin JavaScript, analítica ni servicios de estadísticas. Mantener únicamente enlaces a proyectos cuya visibilidad pública se haya verificado. No añadir actividad, nombres ni metadatos de repositorios privados. -->
+<!-- Las animaciones son SVG locales, sin JavaScript ni analítica. Las tarjetas usan la instancia pública de GitHub Stats Extended, sin credenciales ni acceso concedido a repositorios privados. Mantener únicamente enlaces a proyectos cuya visibilidad pública se haya verificado. No añadir actividad, nombres ni metadatos de repositorios privados. -->
