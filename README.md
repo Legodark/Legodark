@@ -31,16 +31,44 @@ Escribe el prompt de la demo y observa cómo se construye el portfolio: **prompt
 - **DevOps y seguridad:** automatización, integración y entrega continuas, y controles técnicos.
 - **Delivery técnico:** coordinación y documentación para que el equipo pueda construir y mantener las soluciones.
 
-## Tecnologías y herramientas
+## 🧰 Tech loadout
 
-| Área | Stack |
-| :--- | :--- |
-| IA y agentes | Python · LangGraph · LangChain · FastAPI |
-| Modelos | Gemini · Claude |
-| Cloud y plataforma | AWS · Azure · Google Cloud · Docker |
-| DevOps y sistemas | Linux · GitHub · Bash · PowerShell |
-| Datos y machine learning | NumPy · pandas · scikit-learn · Streamlit |
-| Organización y documentación | Jira · Confluence · Notion · Microsoft Loop |
+### 🧠 `ai / agents / models`
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=langgraph&logoColor=82E6BF)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=82E6BF)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Gemini](https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
+![Claude](https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=claude&logoColor=D97757)
+
+### ☁️ `cloud / platform`
+
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+### ⚙️ `devops / systems`
+
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=5391FE)
+
+### 📊 `data / machine learning`
+
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![pandas](https://img.shields.io/badge/pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=B6A4EB)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+
+### 🛠️ `workspace / delivery`
+
+![Jira](https://img.shields.io/badge/Jira-0D1117?style=for-the-badge&logo=jira&logoColor=0052CC)
+![Confluence](https://img.shields.io/badge/Confluence-0D1117?style=for-the-badge&logo=confluence&logoColor=172B4D)
+![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=FFFFFF)
+![Microsoft Loop](https://img.shields.io/badge/Microsoft%20Loop-0D1117?style=for-the-badge&logo=microsoftloop&logoColor=A17CFF)
 
 ## Del dato a la aplicación
 
