@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" role="img" aria-labelledby="title">
+<title id="title">Mano saludando</title>
+<style>
+.hand { transform-origin: 26px 31px; animation: wave 2.6s ease-in-out infinite; }
+@keyframes wave { 0%,60%,100% { transform: rotate(0deg); } 10%,30% { transform: rotate(18deg); } 20%,40% { transform: rotate(-12deg); } 50% { transform: rotate(8deg); } }
+@media (prefers-reduced-motion: reduce) { .hand { animation: none; } }
+</style>
+<text class="hand" x="3" y="31" font-size="30" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif">👋</text>
+</svg>
