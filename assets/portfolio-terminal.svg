@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-labelledby="title desc">
+  <title id="title">Juan Cerezo · AI Architecture</title>
+  <desc id="desc">Una terminal animada conecta prompt, razonamiento y canvas. Arquitectura de IA generativa, cloud y automatización.</desc>
+  <defs>
+    <radialGradient id="glow" cx="100%" cy="0%" r="100%"><stop stop-color="#163b40"/><stop offset="1" stop-color="#0d1117"/></radialGradient>
+    <linearGradient id="line"><stop stop-color="#82e6bf"/><stop offset="1" stop-color="#6ab8e8"/></linearGradient>
+    <style>
+      text { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+      .cursor { animation: blink 1.2s steps(1) infinite; }
+      .signal { animation: pulse 6s ease-in-out infinite; }
+      .two { animation-delay: 2s; }
+      .three { animation-delay: 4s; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes pulse { 0%, 32%, 100% { opacity: .25; } 12%, 22% { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) { .cursor, .signal { animation: none; opacity: 1; } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="998" height="438" rx="20" fill="url(#glow)" stroke="#303b49"/>
+  <path d="M1 57H999" stroke="#303b49"/>
+  <circle cx="28" cy="29" r="5" fill="#82e6bf"/>
+  <circle cx="47" cy="29" r="5" fill="#6ab8e8" opacity=".7"/>
+  <circle cx="66" cy="29" r="5" fill="#728195" opacity=".5"/>
+  <text x="92" y="34" fill="#a7b3c4" font-size="13">juan@portfolio ~ / ai-architecture</text>
+  <text x="952" y="34" fill="#82e6bf" font-size="12" text-anchor="end">juancerezo.com</text>
+  <text x="42" y="99" fill="#82e6bf" font-size="12" letter-spacing="3">JUAN CEREZO · AI ARCHITECTURE</text>
+  <text x="40" y="158" fill="#f0f4fa" font-size="42" font-weight="700" letter-spacing="-2">Un prompt. Un portfolio.</text>
+  <text x="42" y="194" fill="#a7b3c4" font-size="17">De la idea a una solución que puedes explorar.</text>
+  <rect x="40" y="224" width="920" height="54" rx="10" fill="#0b1119" stroke="#37534f"/>
+  <text x="58" y="257" fill="#82e6bf" font-size="16">❯</text>
+  <text x="83" y="257" fill="#d6deea" font-size="16">Genera el portfolio de Juan</text>
+  <rect class="cursor" x="349" y="240" width="9" height="20" fill="#82e6bf"/>
+  <path d="M191 323H413 M581 323H803" stroke="url(#line)" stroke-width="2" stroke-dasharray="4 7" opacity=".45"/>
+  <rect x="40" y="301" width="152" height="44" rx="9" fill="#11251f" stroke="#416c5a"/>
+  <rect x="413" y="301" width="168" height="44" rx="9" fill="#12212c" stroke="#365568"/>
+  <rect x="803" y="301" width="157" height="44" rx="9" fill="#12212c" stroke="#365568"/>
+  <circle class="signal" cx="60" cy="323" r="4" fill="#82e6bf"/>
+  <circle class="signal two" cx="433" cy="323" r="4" fill="#82e6bf"/>
+  <circle class="signal three" cx="823" cy="323" r="4" fill="#82e6bf"/>
+  <text x="118" y="328" fill="#d6deea" font-size="14" text-anchor="middle">prompt</text>
+  <text x="505" y="328" fill="#d6deea" font-size="14" text-anchor="middle">razonamiento</text>
+  <text x="887" y="328" fill="#d6deea" font-size="14" text-anchor="middle">canvas</text>
+  <path d="M40 374H960" stroke="#303b49"/>
+  <text x="42" y="406" fill="#a7b3c4" font-size="13">LLMs / agentes / cloud / DevOps / seguridad</text>
+  <text x="958" y="406" fill="#82e6bf" font-size="13" text-anchor="end">explora el portfolio ↗</text>
+</svg>
