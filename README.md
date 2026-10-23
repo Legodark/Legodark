@@ -1,64 +1,58 @@
-### Hello Github! :octocat:
+<a href="https://juancerezo.com">
+  <img src="./assets/portfolio-terminal.svg" width="100%" alt="Juan Cerezo · AI Architecture. Terminal animada: prompt → razonamiento → canvas. Explora mi portfolio en juancerezo.com." />
+</a>
 
-Mi nombre es Juan, soy un chico de Marbella al que le encantan los coches, conducir 🚗 y la tecnologia 👨🏻‍💻. Actualmente me estoy adentrando en el mundo de Data Science mediante la Inteligencia Artifiicial 👾 y el BigData 💽.
+<p align="center">
+  <a href="https://juancerezo.com"><strong>Explorar portfolio ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/jcs91/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:juan.cerser@protonmail.com">Email</a>
+</p>
 
-Este es mi Github personal donde podras encontrar los proyectos que he ido creando a lo largo del tiempo como desarrollador.
+# Hola, soy Juan
 
-Puedes acceder a algunos de mis últimos proyectos en los siguientes enlaces:
+**AI LLM Technology Architecture Specialist en Accenture · Marbella, España.**
 
-Calcula el precio de tu coche :car:
+Diseño y despliego soluciones de **IA generativa** conectando arquitectura, cloud, DevOps y ciberseguridad. Me interesa convertir las posibilidades de los LLM en sistemas útiles, robustos y fáciles de mantener.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://legodark-cars-predicts-price-cars-second-hand-mg2aep.streamlit.app)
+También me gustan los coches, conducir y encontrar nuevas formas de automatizar lo cotidiano.
 
-Simulacion de un perceptrón :brain: 
+## Un prompt. Un portfolio que se compila ante ti.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://legodark-neuron-simulation-neuron-simulation-21esho.streamlit.app)
+En **[juancerezo.com](https://juancerezo.com)** puedes explorar mi trayectoria, mi stack y mis áreas de trabajo a través de una experiencia inspirada en una terminal de IA.
 
+Escribe el prompt de la demo y observa cómo se construye el portfolio: **prompt → razonamiento → canvas**. La experiencia es una simulación local que se ejecuta en el navegador.
 
-Estos proyectos los desarrolle con las siguientes tecnologias:
+## En qué trabajo
 
-[![python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=#3776AB&labelColor=101010)]()[![numpy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=#013243&labelColor=101010)]()[![pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=#150458&labelColor=101010)]()[![scikit](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn&logoColor=#F7931E&labelColor=101010)]()[![streamlit](https://img.shields.io/badge/streamlit-black?style=for-the-badge&logo=Streamlit&logoColor=#FF4B4B&labelColor=101010)]()
+- **IA generativa y agentes:** diseño e integración de soluciones basadas en LLM, LangChain y LangGraph.
+- **Arquitectura cloud:** despliegue de servicios y contenedores en AWS, Azure y Google Cloud.
+- **DevOps y seguridad:** automatización, integración y entrega continuas, y controles técnicos.
+- **Delivery técnico:** coordinación y documentación para que el equipo pueda construir y mantener las soluciones.
+
+## Tecnologías y herramientas
+
+| Área | Stack |
+| :--- | :--- |
+| IA y agentes | Python · LangGraph · LangChain · FastAPI |
+| Modelos | Gemini · Claude |
+| Cloud y plataforma | AWS · Azure · Google Cloud · Docker |
+| DevOps y sistemas | Linux · GitHub · Bash · PowerShell |
+| Datos y machine learning | NumPy · pandas · scikit-learn · Streamlit |
+| Organización y documentación | Jira · Confluence · Notion · Microsoft Loop |
+
+## Del dato a la aplicación
+
+Dos proyectos públicos de mi etapa de exploración en machine learning:
+
+| Proyecto | Qué puedes explorar |
+| :--- | :--- |
+| [Predicción del precio de coches](https://github.com/Legodark/cars_predicts_price) | Preparación de datos, entrenamiento y una interfaz con Streamlit para estimar precios de vehículos de segunda mano. |
+| [Simulación de un perceptrón](https://github.com/Legodark/neuron_simulation) | Una aplicación didáctica para explorar el funcionamiento de una neurona artificial. |
 
 ---
 
-Mis herramientas para desarrollo :computer::
+**¿Hablamos de IA, cloud o automatización?** Encuéntrame en [LinkedIn](https://www.linkedin.com/in/jcs91/), visita mi [portfolio](https://juancerezo.com) o escríbeme por [email](mailto:juan.cerser@protonmail.com).
 
-[![visual-studio](https://img.shields.io/badge/VisualStudio-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=#007ACC&labelColor=101010)]()[![pycharm](https://img.shields.io/badge/VisualStudio-black?style=for-the-badge&logo=pycharm&logoColor=#007ACC&labelColor=101010)]()[![wsl](https://img.shields.io/badge/wsl-black?style=for-the-badge&logo=linux&logoColor=#FCC624&labelColor=101010)]()[![colab](https://img.shields.io/badge/Colab-black?style=for-the-badge&logo=Google-Colab&logoColor=#F9AB00&labelColor=101010)]()[![anaconda](https://img.shields.io/badge/Anaconda-black?style=for-the-badge&logo=Anaconda&logoColor=#44A833&labelColor=101010)]()[![docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=#44A833&labelColor=101010)]()[![streamlit](https://img.shields.io/badge/streamlit-black?style=for-the-badge&logo=Streamlit&logoColor=#FF4B4B&labelColor=101010)]()[![windows-terminal](https://img.shields.io/badge/Windows--Terminal-black?style=for-the-badge&logo=Windows-Terminal&logoColor=#007ACC&labelColor=101010)]()[![starship](https://img.shields.io/badge/starship-black?style=for-the-badge&logo=starship&logoColor=#DD0B78&labelColor=101010)](mailto:juan.cerser@protonmail.com)[![notion](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=#DD0B78&labelColor=101010)]()
-
----
-
-Me puedes encontrar en:
-
-[![linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=#0A66C2&labelColor=101010)](https://www.linkedin.com/in/jcs91/) [![protonmail](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=protonmail&logoColor=#0A66C2&labelColor=101010)](mailto:juan.cerser@protonmail.com) [![notion](https://img.shields.io/badge/porfolio-black?style=for-the-badge&logo=notion&logoColor=#0A66C2&labelColor=101010)](https://ozerec.addpotion.com)
-
-Mi máquina:
-
-[![asus-rog](https://img.shields.io/badge/asus-black?style=for-the-badge&logo=Republic-of-Gamers&logoColor=red&labelColor=101010)](https://rog.asus.com/es/laptops/rog-strix/2021-rog-strix-scar-17-series/spec/)
-
-Mis estadisticas:
-
-[![Legodark GitHub stats](https://github-readme-stats-legodark.vercel.app/api?username=legodark&show_icons=true&theme=radical)](https://github.com/legodark/legodark) 
-
-
-
-
-
-
-
-
-
-
-<!--
-**Legodark/Legodark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- La animación es un SVG local, sin JavaScript, analítica ni servicios de estadísticas. Mantener únicamente enlaces a proyectos cuya visibilidad pública se haya verificado. No añadir actividad, nombres ni metadatos de repositorios privados. -->
