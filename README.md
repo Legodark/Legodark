@@ -86,10 +86,10 @@ Un vistazo a mi actividad y al código de mis repositorios públicos.
 
 <p align="center">
   <a href="https://github.com/Legodark?tab=repositories">
-    <img width="55%" src="https://github-readme-stats-legodark.vercel.app/api?username=Legodark&amp;show_icons=true&amp;count_private=false&amp;theme=radical" alt="Estadísticas públicas de Juan en GitHub: estrellas, commits, pull requests, issues y rango." />
+    <img height="180" align="center" src="https://github-stats-extended.vercel.app/api?username=Legodark&amp;show_icons=true&amp;count_private=false&amp;theme=radical&amp;card_width=480" alt="Estadísticas públicas de Juan en GitHub: estrellas, commits, pull requests, issues y rango." />
   </a>
   <a href="https://github.com/Legodark?tab=repositories">
-    <img width="42%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Legodark&amp;layout=compact&amp;langs_count=6&amp;theme=radical&amp;custom_title=Lenguajes%20%2F%20repos%20publicos" alt="Distribución de lenguajes en los repositorios públicos de Juan." />
+    <img height="180" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Legodark&amp;layout=compact&amp;langs_count=6&amp;theme=radical&amp;custom_title=Lenguajes%20%2F%20repos%20publicos" alt="Distribución de lenguajes en los repositorios públicos de Juan." />
   </a>
 </p>
 
@@ -97,4 +97,4 @@ Un vistazo a mi actividad y al código de mis repositorios públicos.
 
 **¿Hablamos de IA, cloud o automatización?** Encuéntrame en [LinkedIn](https://www.linkedin.com/in/jcs91/), visita mi [portfolio](https://juancerezo.com) o escríbeme por [email](mailto:juan.cerser@protonmail.com).
 
-<!-- Las animaciones son SVG locales, sin JavaScript ni analítica. La tarjeta de estadísticas usa la instancia original de Legodark con count_private=false; la tarjeta de lenguajes usa la instancia pública de GitHub Stats Extended. No conceder acceso adicional a repositorios privados. Mantener únicamente enlaces a proyectos cuya visibilidad pública se haya verificado. No añadir actividad, nombres ni metadatos de repositorios privados. -->
+<!-- Las animaciones son SVG locales, sin JavaScript ni analítica. Ambas tarjetas usan la instancia pública de GitHub Stats Extended, con el cálculo actualizado de rango y sin conceder acceso a repositorios privados. Mantener únicamente enlaces a proyectos cuya visibilidad pública se haya verificado. No añadir actividad, nombres ni metadatos de repositorios privados. -->
