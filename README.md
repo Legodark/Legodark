@@ -44,8 +44,8 @@ Escribe el prompt de la demo y observa cómo se construye el portfolio: **prompt
 
 ### ☁️ `cloud / platform`
 
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2Y5MCIgZD0iTTIgMTRRMTIgMjIgMjIgMTRRMTIgMTggMiAxNE0xOCAxMmg1djVsLTItM3oiLz48dGV4dCB4PSIxMiIgeT0iMTIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiNmZmYiPmF3czwvdGV4dD48L3N2Zz4%3D&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwODlkNiIgZD0iTTkgMWg3TDggMjNIMXoiLz48cGF0aCBmaWxsPSIjM2NjYmY0IiBkPSJNOSAxaDdsOCAyMmgtOWwtNC01aDZ6Ii8%2BPC9zdmc%2B&logoColor=0078D4)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 
@@ -54,7 +54,7 @@ Escribe el prompt de la demo y observa cómo se construye el portfolio: **prompt
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=5391FE)
+![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzUzOTFmZSIgZD0iTTUgM2gxOWwtNSAxOEgweiIvPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJtOCA3IDQgNC03IDVtNyAwaDUiLz48L3N2Zz4%3D&logoColor=5391FE)
 
 ### 📊 `data / machine learning`
 
@@ -68,7 +68,7 @@ Escribe el prompt de la demo y observa cómo se construye el portfolio: **prompt
 ![Jira](https://img.shields.io/badge/Jira-0D1117?style=for-the-badge&logo=jira&logoColor=0052CC)
 ![Confluence](https://img.shields.io/badge/Confluence-0D1117?style=for-the-badge&logo=confluence&logoColor=172B4D)
 ![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=FFFFFF)
-![Microsoft Loop](https://img.shields.io/badge/Microsoft%20Loop-0D1117?style=for-the-badge&logo=microsoftloop&logoColor=A17CFF)
+![Microsoft Loop](https://img.shields.io/badge/Microsoft%20Loop-0D1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYTE3Y2ZmIiBzdHJva2Utd2lkdGg9IjQiIGQ9Ik0xMiA3QzItNC01IDI2IDEyIDE3IDI5IDI2IDIyLTQgMTIgN1oiLz48L3N2Zz4%3D&logoColor=A17CFF)
 
 ## Del dato a la aplicación
 
