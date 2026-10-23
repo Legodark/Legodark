@@ -86,10 +86,10 @@ Un vistazo a mi actividad y al código de mis repositorios públicos.
 
 <p align="center">
   <a href="https://github.com/Legodark?tab=repositories">
-    <img height="180" align="center" src="https://github-stats-extended.vercel.app/api?username=Legodark&amp;show_icons=true&amp;count_private=false&amp;theme=radical&amp;card_width=480" alt="Estadísticas públicas de Juan en GitHub: estrellas, commits, pull requests, issues y rango." />
+    <img height="165" align="center" src="https://github-stats-extended.vercel.app/api?username=Legodark&amp;show_icons=true&amp;count_private=false&amp;theme=radical&amp;card_width=480" alt="Estadísticas públicas de Juan en GitHub: estrellas, commits, pull requests, issues y rango." />
   </a>
   <a href="https://github.com/Legodark?tab=repositories">
-    <img height="180" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Legodark&amp;layout=compact&amp;langs_count=6&amp;theme=radical&amp;custom_title=Lenguajes%20%2F%20repos%20publicos" alt="Distribución de lenguajes en los repositorios públicos de Juan." />
+    <img height="165" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Legodark&amp;layout=compact&amp;langs_count=6&amp;theme=radical&amp;custom_title=Lenguajes%20%2F%20repos%20publicos" alt="Distribución de lenguajes en los repositorios públicos de Juan." />
   </a>
 </p>
 
