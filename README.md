@@ -10,7 +10,7 @@
   <a href="mailto:juan.cerser@protonmail.com">Email</a>
 </p>
 
-# Hola, soy Juan
+<h1 align="center">¡Hola, soy Juan! 👋</h1>
 
 **AI LLM Technology Architecture Specialist en Accenture · Marbella, España.**
 
@@ -41,6 +41,7 @@ Escribe el prompt de la demo y observa cómo se construye el portfolio: **prompt
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Gemini](https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
 ![Claude](https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=claude&logoColor=D97757)
+![GPT](https://img.shields.io/badge/GPT-0D1117?style=for-the-badge&logo=openai&logoColor=74AA9C)
 
 ### ☁️ `cloud / platform`
 
